@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahib</h1>
-<h3 align="center">Passionate C++ Developer | DSA Enthusiast | Exploring Genetics & Aquaculture | Building for Impact</h3>
+<h3 align="center">Passionate C++ Developer | DSA Enthusiast| Building for Impact</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahib2121&label=Profile%20views&color=0e75b6&style=flat" alt="mahib2121" /> </p>
 
