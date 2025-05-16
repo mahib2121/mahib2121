@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mahib-alam-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahib-alam-khan" height="30" width="40" /></a>
 <a href="https://fb.com/mahib.khan.2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahib.khan.2016" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/khanmahibalam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khanmahibalam" height="30" width="40" /></a>
+
 <a href="https://codeforces.com/profile/mahib6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahib6969" height="30" width="40" /></a>
 </p>
 
