@@ -50,8 +50,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahib2121&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahib2121&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahib2121&show_icons=true&locale=en&layout=compact" alt="mahib2121" /></p>
 </div>
 
 <p align="center">
