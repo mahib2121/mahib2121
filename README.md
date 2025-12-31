@@ -46,12 +46,11 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahib2121&layout=compact&show_icons=true&locale=en" alt="Top Languages" />
-</div>
+### 🔤 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahib2121&layout=compact&theme=default)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahib2121&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahib2121&theme=radical&no-frame=true&margin-w=15)
+
