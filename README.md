@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌱 Currently learning <strong>MERN Stack Development</strong> and <strong>Machine Learning & AI</strong> for research and publication<br>
+  🌱 Currently learning <strong>FULL Stack Development</strong> and <strong>Machine Learning & AI</strong> for research and publication<br>
   💬 Ask me about <strong>C++, Data Structures & Algorithms, Competitive Programming</strong><br>
   📫 Reach me at <strong>khanmahibalam@gmail.com</strong>
 </p>
